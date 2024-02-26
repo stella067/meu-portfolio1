@@ -1,4 +1,3 @@
-style.css
 /*ESTILO GERAL*/
 *{
     margin: 0;
@@ -6,6 +5,8 @@ style.css
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+
+
 
 
 
@@ -26,6 +27,14 @@ body{
 
 
 
+
+
+
+
+
+
+
+
 .interface{
     max-width: 1280px;
     margin: 0 auto;
@@ -33,6 +42,8 @@ body{
 .flex{
     display: flex;
 }
+
+
 
 
 h2.titulo{
@@ -44,10 +55,20 @@ h2.titulo{
 
 
 
+
+
+
+
 h2.titulo span{
     color:blueviolet
 }
    
+
+
+
+
+
+
 
 
 
@@ -63,6 +84,14 @@ header > .interface{
     align-items: center;
     justify-content: space-between;
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -92,6 +121,14 @@ header nav ul{
 
 
 
+
+
+
+
+
+
+
+
 header nav ul li{
     display: inline-block;
     padding: 0 40px;
@@ -113,11 +150,27 @@ header nav ul li{
 
 
 
+
+
+
+
+
+
+
+
 }
 .btn-contato button:hover{
     box-shadow: 0px 0px 8px #00ff08;
     transform:scale(1.05);
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -135,9 +188,25 @@ header nav ul li{
 
 
 
+
+
+
+
+
+
+
+
 section.topo-do-site{
     padding:40px 4%;
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -159,11 +228,27 @@ section.topo-do-site.flex{
 
 
 
+
+
+
+
+
+
+
+
 .topo-do-site h1{
     color:#fff;
     font-size: 40px;
     line-height: 50px;
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -184,17 +269,30 @@ section.topo-do-site.flex{
 
 
 
+
+
+
+
+
+
+
+
 .topo-do-site .txt-do-site p{
     color: #fff;
     margin: 40px 0;
 }
 
 
+
+
 .topo-do-site .txt-topo-site p {
     color: white;
     margin: 40px 0;
 
+
 }
+
+
 
 
 .topo-do-site img-topo-site img{
@@ -202,7 +300,16 @@ section.topo-do-site.flex{
    animation: flutuar 2s ease-in-out infinite
      alternate;
 
+
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -223,15 +330,25 @@ section.topo-do-site.flex{
 
 
 
+
+
+
+
 /* ESTILO DAS ESPECIALIDADES */
 section.especialidades{
     padding: 40px 4%;
 }
 
 
+
+
 section.especiliadades.flex{
     gap: 60px;
 }
+
+
+
+
 
 
 
@@ -244,10 +361,14 @@ section.especiliadades.flex{
 }
 
 
+
+
 .especiliadades .especialidades-box:hover{
     transform:scale(1.05);
     box-shadow: 0 0 8px #fff;
 }
+
+
 
 
 .especiliadades .especialidades-box i{
@@ -256,12 +377,18 @@ section.especiliadades.flex{
 }
 
 
+
+
 .especiliadades .especialidades-box h3{
     font-size: 28px;
     margin: 15px 0;
 
 
+
+
 }
-#42445A
+
+
+
 
 
